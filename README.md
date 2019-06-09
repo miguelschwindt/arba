@@ -3,14 +3,14 @@
 #### Fecha: 07/06/2019 11h25
 #### Autor: Miguel Schwindt - miguel@mstechnology.com.ar
 #### Fuente: https://www.arba.gov.ar/Informacion/IBrutos/LinksIIBB/RegimenSujeto.asp
+#### Server: Ubuntu 14.04 LTS
+
+Los siguientes comandos son para descrgar y mantener la base de datos de ARBA provincia de Buenos Aires actualizada. Se ejecuta via cron job en una maquina con sistema operativo Ubuntu Server LTS 14.04. 
 
 1) Mantener la estructura de 
-	/home/user/script/
-	/home/user/script/archivos
+	/home/user/script/ --> Aquí debe agregar todos los archivos .sh, son 4
+	/home/user/script/archivos --> Aquí debe agregar el archivo archivo_base.xml
    
-   En cada uno de ellos incluir los archivos que se ven en las carpetas, son 4 .sh y
-   un .xml dentro de la carpeta archivos
-
 2) Editar cada archivo segun el nombre de usuario de tu sistema
 
 3) Para ejecutar dentro del crontab -> Setear el archivo ~/.pgpass con los datos de 
