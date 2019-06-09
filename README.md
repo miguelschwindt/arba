@@ -1,7 +1,3 @@
-# arba
-Descargar Padrón completo ARBA, Provincia de Buenos Aires
-
-
 # PROCESO PARA MANTENER ACTUALIZADO EL PADRÓN DE ARBA PROV. BSAS
 
 #### Fecha: 07/06/2019 11h25
