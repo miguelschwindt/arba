@@ -1,4 +1,4 @@
-# PROCESO PARA MANTENER ACTUALIZADO EL PADRÓN DE ARBA PROV. BSAS
+# Proceso para mantener actualizado el padrón de Arba Prov. Bs.As.
 
 #### Fecha: 07/06/2019 11h25
 #### Autor: Miguel Schwindt - miguel@mstechnology.com.ar
