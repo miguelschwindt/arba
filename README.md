@@ -1,4 +1,4 @@
-# Proceso para mantener actualizado el padrón de Arba Prov. Bs.As.
+# Proceso automático para mantener actualizado el padrón de Arba Prov. Bs.As en tu Base de Datos PostgreSQL.
 
 #### Fecha: 07/06/2019 11h25
 #### Autor: Miguel Schwindt - miguel@mstechnology.com.ar
